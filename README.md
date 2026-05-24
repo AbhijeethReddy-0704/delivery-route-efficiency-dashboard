@@ -37,8 +37,6 @@ It combines synthetic data engineering, KPI modeling, SQLite analytics views, an
 8. [KPI Definitions](#kpi-definitions)
 9. [Testing](#testing)
 10. [Deployment](#deployment)
-11. [Resume Alignment](#resume-alignment)
-12. [Notes](#notes)
 
 ---
 
@@ -205,15 +203,3 @@ Streamlit Cloud essentials:
 - Main file path: `streamlit_app.py`
 
 No PostgreSQL, external APIs, API keys, or secrets required.
-
----
-
-## Resume Alignment
-- Built a logistics performance analytics dashboard tracking delivery productivity KPIs across 100K+ delivery records for a third-party logistics and supply chain environment.
-- Visualized delivery trends and bottlenecks across 25+ routes, identifying a 12% improvement opportunity in last-mile SLA attainment and enabling operations leaders to prioritize route optimization and continuous improvement.
-
----
-
-## Notes
-- This is a synthetic dataset and synthetic analytics finding for portfolio demonstration.
-- GL is not part of this project; this repository is strictly logistics-focused.
