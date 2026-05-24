@@ -1,0 +1,13 @@
+check_name,result,expected_value,actual_value,status,notes
+row_count_minimum,pass,>=1,2000,PASS,
+unique_routes_minimum,pass,>=1,30,PASS,
+duplicate_delivery_id,fail,0,1,FAIL,
+required_columns_present,pass,none missing,none,PASS,
+cost_non_negative,pass,all >= 0,min=9.91,PASS,
+distance_positive,pass,all > 0,min=2.00,PASS,
+on_time_flag_valid,pass,"subset of {0,1}","[0, 1]",PASS,
+sla_met_flag_valid,pass,"subset of {0,1}","[0, 1]",PASS,
+scheduled_date_valid,pass,all parseable,invalid=0,PASS,
+actual_date_valid,pass,all parseable,invalid=0,PASS,
+failed_delivery_sla_rule,pass,failed deliveries have sla_met_flag=0,0,PASS,business rule check
+sla_improvement_opportunity_range,fail,between 9% and 15%,8.60%,FAIL,synthetic dataset expectation (~12%)
