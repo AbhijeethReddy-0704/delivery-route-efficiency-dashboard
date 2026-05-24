@@ -62,30 +62,16 @@ This project delivers an end-to-end analytics workflow:
 ---
 
 ## Dashboard Preview
-Visual walkthrough of each dashboard page.
+Reference-style dashboard preview structure (add your own final screenshots):
+- Executive Overview: `docs/screenshots/executive_overview.png`
+- Route Bottleneck Analysis: `docs/screenshots/route_bottlenecks.png`
+- Delivery Trend Analysis: `docs/screenshots/delivery_trends.png`
+- Failure Reason Analysis: `docs/screenshots/failure_analysis.png`
+- Driver & Vehicle Performance: `docs/screenshots/driver_vehicle.png`
+- Cost & Efficiency Analysis: `docs/screenshots/cost_efficiency.png`
+- Data Quality & Validation: `docs/screenshots/data_quality.png`
 
-### Executive Overview
-![Executive Overview](docs/screenshots/executive_overview.png)
-
-### Route Bottleneck Analysis
-![Route Bottleneck Analysis](docs/screenshots/route_bottlenecks.png)
-
-### Delivery Trend Analysis
-![Delivery Trend Analysis](docs/screenshots/delivery_trends.png)
-
-### Failure Reason Analysis
-![Failure Reason Analysis](docs/screenshots/failure_analysis.png)
-
-### Driver & Vehicle Performance
-![Driver and Vehicle Performance](docs/screenshots/driver_vehicle.png)
-
-### Cost & Efficiency Analysis
-![Cost and Efficiency Analysis](docs/screenshots/cost_efficiency.png)
-
-### Data Quality & Validation
-![Data Quality and Validation](docs/screenshots/data_quality.png)
-
-Screenshot capture guide: `docs/screenshots/SCREENSHOT_GUIDE.md`
+Screenshot guide: `docs/screenshots/SCREENSHOT_GUIDE.md`
 
 ---
 
