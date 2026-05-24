@@ -12,12 +12,12 @@ It combines synthetic data engineering, KPI modeling, SQLite analytics views, an
 ---
 
 ## Live Demo
-- Streamlit Cloud: `ADD_YOUR_STREAMLIT_CLOUD_URL_HERE`
-- Local URL: `http://localhost:8501`
-- GitHub Repo: `https://github.com/AbhijeethReddy-0704/delivery-route-efficiency-dashboard`
+- Streamlit Cloud: [Add your deployed app URL here](https://share.streamlit.io/)
+- Local URL: [http://localhost:8501](http://localhost:8501)
+- GitHub Repo: [delivery-route-efficiency-dashboard](https://github.com/AbhijeethReddy-0704/delivery-route-efficiency-dashboard)
 - Streamlit Cloud main file path: `streamlit_app.py`
 
-## Recruiter Snapshot
+## Project Snapshot
 - 120,000 synthetic delivery records
 - 30 routes, 18 delivery zones, 7 warehouses, 140 drivers
 - Route bottleneck diagnostics and KPI dashboarding
@@ -62,7 +62,7 @@ This project delivers an end-to-end analytics workflow:
 ---
 
 ## Dashboard Preview
-Recruiters can scan the visuals directly without running the app.
+Visual walkthrough of each dashboard page.
 
 ### Executive Overview
 ![Executive Overview](docs/screenshots/executive_overview.png)
